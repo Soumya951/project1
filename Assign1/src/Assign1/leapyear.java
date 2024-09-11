@@ -1,6 +1,6 @@
 package Assign1;
 
-public class leapyare {
+public class lp {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
